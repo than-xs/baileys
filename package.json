@@ -1,6 +1,6 @@
 {
   "name": "@than-xs/baileys",
-  "version": "2.0.3",
+  "version": "7.0.6",
   "description": "Customized WhatsApp WebSocket API for Node.js",
   "keywords": [
     "whatsapp",
